@@ -1,0 +1,9 @@
+# ignore test input files
+
+*.tsv
+*.gz
+
+# ignore test output files
+
+*.xml
+*.out
